@@ -4,5 +4,3 @@ time = 3
 interest = principle * rate * time
 interest = 150
 print(f"The simple interest is: {interest}")
-
-
